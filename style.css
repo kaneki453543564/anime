@@ -1,58 +1,93 @@
 
+body{  
+background-image: url("https://abrakadabra.fun/uploads/posts/2022-03/thumbs/1646547218_9-abrakadabra-fun-p-anime-oboi-na-rabochii-stol-tokiiskii-gul-10.jpg");
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-size: cover;
+}
 header{
+        padding-top: 20px;
         background-image: url('https://e0.pxfuel.com/wallpapers/314/42/desktop-wallpaper-tokyo-ghoul-computer.jpg');
         background-repeat: no-repeat;
         background-size: cover;
         display: block;
-        height: 100vh;
+        height: 65vh;
+        width: 120vh;
+        margin: 0 auto 0 auto;
         color: #b8b2ab;
         font-family: Trattatello, fantasy;
         font-variant: small-caps;
         font-style: italic;
-        font-size: 70px;
-        border-bottom: 15px solid black;
+        font-size: 55px;
         text-shadow: red 5px 5px 10px;
 }
 
 header p{
-    padding: 100px;
-    padding-top: 140px;
+    padding: 70px;
+    padding-top: 95px;
     letter-spacing: 3px;
 }
-main{
+.main{
     background-image: url("https://images5.alphacoders.com/116/1163220.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     display: block;
-    height: 100vh;
+    height: 65vh;
+    width: 120vh;
+    margin: 0 auto 0 auto;
     color: #9e0e1a;
     font-family: Trattatello, fantasy;
     font-variant: small-caps;
     font-style: italic;
-    font-size: 70px;
-    border-bottom: 15px solid black;
+    font-size: 50px;
 }
-main h1{
+.main h1{
     background: linear-gradient(45deg, #b721ff, #21d4fd);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    font-size: 58px;
+    font-size: 48px;
     text-align: right;
-    padding-top: 100px;
-    padding-right: 80px;
+    padding-top: 20px;
+    padding-right: 40px;
     display: block;
     text-shadow: #0c999e 5px 5px 10px;
 }
 
 .hourse{
     color: #c01e39;
-
-    padding-left: 90vh;
-    font-size: 90px;
+    padding-left: 80vh;
+    font-size: 80px;
     text-align: center;
     text-shadow: #b80e0e 5px 5px 10px;
     background: linear-gradient(45deg, #ff0844, #ffb199);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     text-decoration: underline;
+}
+
+.tir{
+    padding-top: 40px;
+    display: block;
+    margin: 0 auto 0 auto;
+    width: 120vh;
+    height: 100vh;
+    background: linear-gradient(30deg,    ,   );
+}
+.tir article{
+    display: block;
+    color: #ffffff;
+    font-family: Trattatello, fantasy;
+    font-variant: small-caps;
+    font-style: italic;
+    font-size: 40px;
+    text-shadow: red 5px 5px 10px;
+    margin: 0 auto 0 auto;
+    width: 400px;
+}
+.rang{
+    text-shadow: none;
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    padding-right: 15px;
+    text-decoration: underline 5px solid rgb(110, 103, 103);
 }
