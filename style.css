@@ -1,0 +1,58 @@
+
+header{
+        background-image: url('https://e0.pxfuel.com/wallpapers/314/42/desktop-wallpaper-tokyo-ghoul-computer.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        display: block;
+        height: 100vh;
+        color: #b8b2ab;
+        font-family: Trattatello, fantasy;
+        font-variant: small-caps;
+        font-style: italic;
+        font-size: 70px;
+        border-bottom: 15px solid black;
+        text-shadow: red 5px 5px 10px;
+}
+
+header p{
+    padding: 100px;
+    padding-top: 140px;
+    letter-spacing: 3px;
+}
+main{
+    background-image: url("https://images5.alphacoders.com/116/1163220.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: block;
+    height: 100vh;
+    color: #9e0e1a;
+    font-family: Trattatello, fantasy;
+    font-variant: small-caps;
+    font-style: italic;
+    font-size: 70px;
+    border-bottom: 15px solid black;
+}
+main h1{
+    background: linear-gradient(45deg, #b721ff, #21d4fd);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 58px;
+    text-align: right;
+    padding-top: 100px;
+    padding-right: 80px;
+    display: block;
+    text-shadow: #0c999e 5px 5px 10px;
+}
+
+.hourse{
+    color: #c01e39;
+
+    padding-left: 90vh;
+    font-size: 90px;
+    text-align: center;
+    text-shadow: #b80e0e 5px 5px 10px;
+    background: linear-gradient(45deg, #ff0844, #ffb199);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-decoration: underline;
+}
